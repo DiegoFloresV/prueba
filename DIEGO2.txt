@@ -1,0 +1,8 @@
+Tarea
+
+1. Agrega a tus compañeros de mesa como colaboradores en GitHub
+2. Modifica el archivo de tu repositorio (antes de las 9:00hrs de mañana)
+3. Los compañeros agregados como colaboradores de un repositorio deberan descargar los combios
+4. Los compañeros colaboradores deberan modificar el archivo y subirlo (limite 12:00hrs de mañana)
+5. El dueño del repositorio debera descargar los cambios
+6. Porr equipo hacer un ejemplo con un branch y merge
